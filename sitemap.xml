@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rootsongjc.github.io/cloud-native-go/categories/</loc>
+    <loc>https://jimmysong.io/cloud-native-go/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rootsongjc.github.io/cloud-native-go/</loc>
+    <loc>https://jimmysong.io/cloud-native-go/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rootsongjc.github.io/cloud-native-go/tags/</loc>
+    <loc>https://jimmysong.io/cloud-native-go/tags/</loc>
     <priority>0</priority>
   </url>
   
